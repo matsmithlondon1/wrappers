@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/wms
+END
+CapabilitiesRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/wms/CapabilitiesRequest.java
+END
+CapabilitiesV111.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/wms/CapabilitiesV111.java
+END
+CapabilitiesV130.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/wms/CapabilitiesV130.java
+END
+Request.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/wms/Request.java
+END
+WMSNamespaceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/wms/WMSNamespaceContext.java
+END
+WMSTiledImageLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/wms/WMSTiledImageLayer.java
+END
+Capabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/wms/Capabilities.java
+END
+BoundingBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/wms/BoundingBox.java
+END

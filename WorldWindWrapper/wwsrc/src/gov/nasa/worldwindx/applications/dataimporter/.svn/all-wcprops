@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1180/trunk/WorldWind/src/gov/nasa/worldwindx/applications/dataimporter
+END
+FileSetFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1180/trunk/WorldWind/src/gov/nasa/worldwindx/applications/dataimporter/FileSetFilter.java
+END
+FileStoreDataSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1180/trunk/WorldWind/src/gov/nasa/worldwindx/applications/dataimporter/FileStoreDataSet.java
+END
+FileSetTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1180/trunk/WorldWind/src/gov/nasa/worldwindx/applications/dataimporter/FileSetTable.java
+END
+FileSetRPF.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1180/trunk/WorldWind/src/gov/nasa/worldwindx/applications/dataimporter/FileSetRPF.java
+END
+FileStoreTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1180/trunk/WorldWind/src/gov/nasa/worldwindx/applications/dataimporter/FileStoreTable.java
+END
+FileSetPreviewImageGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1180/trunk/WorldWind/src/gov/nasa/worldwindx/applications/dataimporter/FileSetPreviewImageGenerator.java
+END
+DataInstallerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1180/trunk/WorldWind/src/gov/nasa/worldwindx/applications/dataimporter/DataInstallerPanel.java
+END
+FileSetHighlighter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1180/trunk/WorldWind/src/gov/nasa/worldwindx/applications/dataimporter/FileSetHighlighter.java
+END
+FileSetPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1180/trunk/WorldWind/src/gov/nasa/worldwindx/applications/dataimporter/FileSetPanel.java
+END
+FileStorePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1180/trunk/WorldWind/src/gov/nasa/worldwindx/applications/dataimporter/FileStorePanel.java
+END
+TableCellColorRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1180/trunk/WorldWind/src/gov/nasa/worldwindx/applications/dataimporter/TableCellColorRenderer.java
+END
+ColorAllocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1180/trunk/WorldWind/src/gov/nasa/worldwindx/applications/dataimporter/ColorAllocator.java
+END
+FileSetFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1180/trunk/WorldWind/src/gov/nasa/worldwindx/applications/dataimporter/FileSetFinder.java
+END
+FileSetTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1180/trunk/WorldWind/src/gov/nasa/worldwindx/applications/dataimporter/FileSetTableModel.java
+END
+DataInstallerProgressMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1180/trunk/WorldWind/src/gov/nasa/worldwindx/applications/dataimporter/DataInstallerProgressMonitor.java
+END
+LayersMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1180/trunk/WorldWind/src/gov/nasa/worldwindx/applications/dataimporter/LayersMenu.java
+END
+FileStoreTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1180/trunk/WorldWind/src/gov/nasa/worldwindx/applications/dataimporter/FileStoreTableModel.java
+END
+DataInstaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1180/trunk/WorldWind/src/gov/nasa/worldwindx/applications/dataimporter/DataInstaller.java
+END
+DataInstallerApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1180/trunk/WorldWind/src/gov/nasa/worldwindx/applications/dataimporter/DataInstallerApp.java
+END
+FileSetMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1180/trunk/WorldWind/src/gov/nasa/worldwindx/applications/dataimporter/FileSetMap.java
+END
+FileStoreDataSetFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1180/trunk/WorldWind/src/gov/nasa/worldwindx/applications/dataimporter/FileStoreDataSetFinder.java
+END
+FileSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1180/trunk/WorldWind/src/gov/nasa/worldwindx/applications/dataimporter/FileSet.java
+END
+FileStoreSectorHighlighter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1180/trunk/WorldWind/src/gov/nasa/worldwindx/applications/dataimporter/FileStoreSectorHighlighter.java
+END

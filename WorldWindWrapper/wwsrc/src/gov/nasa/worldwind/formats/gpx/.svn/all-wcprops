@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/formats/gpx
+END
+GpxReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/formats/gpx/GpxReader.java
+END
+GpxTrack.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/formats/gpx/GpxTrack.java
+END
+ElementParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/formats/gpx/ElementParser.java
+END
+GpxTrackSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/formats/gpx/GpxTrackSegment.java
+END
+GpxRoutePoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/formats/gpx/GpxRoutePoint.java
+END
+GpxWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/formats/gpx/GpxWriter.java
+END
+GpxRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/formats/gpx/GpxRoute.java
+END
+GpxTrackPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/formats/gpx/GpxTrackPoint.java
+END

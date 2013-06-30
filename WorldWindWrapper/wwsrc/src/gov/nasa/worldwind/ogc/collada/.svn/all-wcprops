@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada
+END
+ColladaUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaUnit.java
+END
+ColladaInstanceMaterial.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaInstanceMaterial.java
+END
+ColladaVertices.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaVertices.java
+END
+ColladaAbstractParamContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaAbstractParamContainer.java
+END
+ColladaFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaFormat.java
+END
+ColladaAbstractInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/600/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaAbstractInstance.java
+END
+ColladaSurface.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaSurface.java
+END
+ColladaTriangles.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaTriangles.java
+END
+ColladaAbstractShader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaAbstractShader.java
+END
+ColladaGeometry.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaGeometry.java
+END
+ColladaBindMaterial.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaBindMaterial.java
+END
+ColladaMesh.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaMesh.java
+END
+ColladaEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaEffect.java
+END
+ColladaTechniqueCommon.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaTechniqueCommon.java
+END
+ColladaInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaInput.java
+END
+ColladaSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaSource.java
+END
+ColladaTexture.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaTexture.java
+END
+ColladaParserContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/644/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaParserContext.java
+END
+ColladaInstanceVisualScene.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaInstanceVisualScene.java
+END
+ColladaResourceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaResourceResolver.java
+END
+ColladaContributor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaContributor.java
+END
+ColladaPhong.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaPhong.java
+END
+ColladaConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaConstants.java
+END
+ColladaAbstractGeometry.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/650/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaAbstractGeometry.java
+END
+ColladaAsset.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaAsset.java
+END
+ColladaInstanceGeometry.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaInstanceGeometry.java
+END
+ColladaInstanceEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaInstanceEffect.java
+END
+ColladaVisualScene.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaVisualScene.java
+END
+ColladaImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaImage.java
+END
+ColladaExtra.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaExtra.java
+END
+ColladaRoot.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/769/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaRoot.java
+END
+ColladaNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/664/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaNode.java
+END
+ColladaTechnique.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/675/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaTechnique.java
+END
+ColladaLambert.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaLambert.java
+END
+ColladaFloatOrParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaFloatOrParam.java
+END
+ColladaUnsupported.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/642/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaUnsupported.java
+END
+ColladaSampler2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaSampler2D.java
+END
+ColladaAbstractObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaAbstractObject.java
+END
+ColladaBindVertexInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaBindVertexInput.java
+END
+ColladaScene.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaScene.java
+END
+ColladaMaterial.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaMaterial.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/package.html
+END
+ColladaP.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/662/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaP.java
+END
+ColladaParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaParam.java
+END
+ColladaTextureOrColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaTextureOrColor.java
+END
+ColladaAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaAccessor.java
+END
+ColladaMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaMatrix.java
+END
+ColladaLibrary.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaLibrary.java
+END
+ColladaFloatArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/662/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaFloatArray.java
+END
+ColladaProfileCommon.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/675/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaProfileCommon.java
+END
+ColladaLines.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaLines.java
+END
+ColladaInstanceNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaInstanceNode.java
+END
+ColladaNewParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaNewParam.java
+END
+ColladaBind.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaBind.java
+END
+ColladaColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/654/trunk/WorldWind/src/gov/nasa/worldwind/ogc/collada/ColladaColor.java
+END

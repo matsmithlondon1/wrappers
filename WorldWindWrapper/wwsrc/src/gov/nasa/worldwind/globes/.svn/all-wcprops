@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/globes
+END
+FlatGlobe.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/globes/FlatGlobe.java
+END
+GlobeStateKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/globes/GlobeStateKey.java
+END
+Earth.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/globes/Earth.java
+END
+ElevationModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/globes/ElevationModel.java
+END
+Globe.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/globes/Globe.java
+END
+EarthFlat.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/globes/EarthFlat.java
+END
+EllipsoidalGlobe.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/globes/EllipsoidalGlobe.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/689/trunk/WorldWind/src/gov/nasa/worldwind/globes/package.html
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1052/trunk/WorldWind/src/org/codehaus/jackson/sym
+END
+Name.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/sym/Name.java
+END
+Name1.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/sym/Name1.java
+END
+Name2.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/sym/Name2.java
+END
+Name3.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/sym/Name3.java
+END
+CharsToNameCanonicalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/sym/CharsToNameCanonicalizer.java
+END
+BytesToNameCanonicalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/sym/BytesToNameCanonicalizer.java
+END
+NameN.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/sym/NameN.java
+END

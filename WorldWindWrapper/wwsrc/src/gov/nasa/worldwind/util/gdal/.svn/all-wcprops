@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/util/gdal
+END
+GDALAbstractFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/util/gdal/GDALAbstractFileFilter.java
+END
+GDALLibraryFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/util/gdal/GDALLibraryFinder.java
+END
+GDALUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/util/gdal/GDALUtils.java
+END
+GDALDataFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/util/gdal/GDALDataFinder.java
+END

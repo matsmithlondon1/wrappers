@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/kml/gx
+END
+GXParserContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/kml/gx/GXParserContext.java
+END
+GXPlaylist.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/kml/gx/GXPlaylist.java
+END
+GXWait.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/kml/gx/GXWait.java
+END
+GXAnimatedUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/kml/gx/GXAnimatedUpdate.java
+END
+GXSoundCue.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/kml/gx/GXSoundCue.java
+END
+GXAbstractTourPrimitive.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/kml/gx/GXAbstractTourPrimitive.java
+END
+GXTour.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/kml/gx/GXTour.java
+END
+GXTourControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/kml/gx/GXTourControl.java
+END
+GXLatLongQuad.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/kml/gx/GXLatLongQuad.java
+END
+GXConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/kml/gx/GXConstants.java
+END
+GXFlyTo.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/kml/gx/GXFlyTo.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/kml/gx/package.html
+END

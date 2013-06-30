@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/airspaces/editor
+END
+AirspaceEditEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/airspaces/editor/AirspaceEditEvent.java
+END
+AbstractAirspaceEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/airspaces/editor/AbstractAirspaceEditor.java
+END
+AirspaceControlPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/airspaces/editor/AirspaceControlPoint.java
+END
+AirspaceEditorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/airspaces/editor/AirspaceEditorController.java
+END
+AirspaceEditListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/airspaces/editor/AirspaceEditListener.java
+END
+BasicAirspaceControlPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/airspaces/editor/BasicAirspaceControlPoint.java
+END
+SphereAirspaceEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/airspaces/editor/SphereAirspaceEditor.java
+END
+AirspaceControlPointRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/airspaces/editor/AirspaceControlPointRenderer.java
+END
+BasicAirspaceControlPointRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/airspaces/editor/BasicAirspaceControlPointRenderer.java
+END
+AirspaceEditorUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/airspaces/editor/AirspaceEditorUtil.java
+END
+AirspaceEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/airspaces/editor/AirspaceEditor.java
+END
+PolygonEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/airspaces/editor/PolygonEditor.java
+END

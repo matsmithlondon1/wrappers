@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1181/trunk/WorldWind/src/gov/nasa/worldwind
+END
+Model.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/Model.java
+END
+SceneController.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/SceneController.java
+END
+WorldWindowImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/WorldWindowImpl.java
+END
+BasicModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/BasicModel.java
+END
+Restorable.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/Restorable.java
+END
+BasicSceneController.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/BasicSceneController.java
+END
+WorldWindowGLDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/WorldWindowGLDrawable.java
+END
+Exportable.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/Exportable.java
+END
+WWObjectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/WWObjectImpl.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/Configuration.java
+END
+Factory.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/Factory.java
+END
+BasicFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/BasicFactory.java
+END
+WorldWind.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/WorldWind.java
+END
+View.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/View.java
+END
+StereoOptionSceneController.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/StereoOptionSceneController.java
+END
+WorldWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/WorldWindow.java
+END
+StereoSceneController.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/StereoSceneController.java
+END
+WWObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/WWObject.java
+END
+AbstractSceneController.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/AbstractSceneController.java
+END
+Movable.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/Movable.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/Version.java
+END
+Disposable.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/Disposable.java
+END
+Locatable.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/Locatable.java
+END
+WorldWindowGLAutoDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/WorldWindowGLAutoDrawable.java
+END

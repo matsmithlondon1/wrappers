@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/util/xml/atom
+END
+AtomParserContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/util/xml/atom/AtomParserContext.java
+END
+AtomPerson.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/util/xml/atom/AtomPerson.java
+END
+AtomAbstractObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/util/xml/atom/AtomAbstractObject.java
+END
+AtomConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/util/xml/atom/AtomConstants.java
+END
+AtomLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/util/xml/atom/AtomLink.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/util/xml/atom/package.html
+END

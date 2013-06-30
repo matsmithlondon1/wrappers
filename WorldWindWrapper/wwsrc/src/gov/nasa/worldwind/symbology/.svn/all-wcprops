@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology
+END
+TacticalQuad.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/TacticalQuad.java
+END
+TacticalRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/TacticalRoute.java
+END
+AbstractIconRetriever.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/AbstractIconRetriever.java
+END
+TacticalCircle.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/TacticalCircle.java
+END
+AbstractTacticalGraphic.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/560/trunk/WorldWind/src/gov/nasa/worldwind/symbology/AbstractTacticalGraphic.java
+END
+TacticalGraphicFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/TacticalGraphicFactory.java
+END
+TacticalSymbol.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/TacticalSymbol.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/package.html
+END
+TacticalGraphicUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/TacticalGraphicUtil.java
+END
+IconRetriever.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/IconRetriever.java
+END
+SymbologyConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/SymbologyConstants.java
+END
+TacticalSymbolAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/TacticalSymbolAttributes.java
+END
+TacticalGraphicLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/TacticalGraphicLabel.java
+END
+TacticalGraphic.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/TacticalGraphic.java
+END
+BasicTacticalSymbolAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/BasicTacticalSymbolAttributes.java
+END
+TacticalGraphicAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/TacticalGraphicAttributes.java
+END
+BasicTacticalGraphicAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/BasicTacticalGraphicAttributes.java
+END
+TacticalPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/TacticalPoint.java
+END
+AbstractTacticalSymbol.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/AbstractTacticalSymbol.java
+END

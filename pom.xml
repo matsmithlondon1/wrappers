@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    
+    <parent>
+        <artifactId>Libraries</artifactId>
+        <groupId>org.dj</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>org.jogamp.gluegen</groupId>
+                <artifactId>gluegen-rt-main</artifactId>
+                <version>${jogamp.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>org.jogamp.jogl</groupId>
+                <artifactId>jogl-all-main</artifactId>
+                <version>${jogamp.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.javolution</groupId>
+                <artifactId>javolution</artifactId>
+                <version>${javolution.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.jscience</groupId>
+                <artifactId>jscience</artifactId>
+                <version>${jscience.version}</version>
+                <type>pom</type>
+            </dependency>
+            <dependency>
+                <groupId>com.google.guava</groupId>
+                <artifactId>guava</artifactId>
+                <version>${guava.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.github.peichhorn</groupId>
+                <artifactId>lombok-pg</artifactId>
+                <version>${lombok-pg.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.objectdb</groupId>
+                <artifactId>objectdb</artifactId>
+                <version>${objectdb.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>edu.ucar</groupId>
+                <artifactId>netcdf</artifactId>
+                <version>${netcdf.version}</version>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+    
+    <properties>
+        <guava.version>14.0.1</guava.version>
+        <jscience.version>5.0-SNAPSHOT</jscience.version>
+        <javolution.version>5.3.1</javolution.version>
+        <lombok-pg.version>0.11.3</lombok-pg.version>
+        <objectdb.version>2.5.1</objectdb.version>
+        <netcdf.version>4.2.20</netcdf.version>
+        <nbm.maven.version>3.9</nbm.maven.version>
+        
+        <jogamp.version>2.0-rc11</jogamp.version>
+    </properties>
+    
+
+    <groupId>org.dj</groupId>
+    <artifactId>wrappers</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <name>Wrappers</name>
+
+    <modules>
+        <module>GUAVAWrapper</module>
+        <module>NETCDFWrapper</module>
+        <module>JavolutionWrapper</module>
+        <module>JScienceWrapper</module>
+        <module>ObjectDBWrapper</module>
+        <module>LombokPGWrapper</module>
+        <module>JOGAMPWrapper</module>
+        <module>GDALWrapper</module>
+        <module>JMatIOWrapper</module>
+        <module>MTJWrapper</module>
+        <module>EJMLWrapper</module>
+        <module>PluginWrapper</module>
+        <module>WorldWindWrapper</module>
+        <module>GeocoderWrapper</module>
+        <module>CommonsWrapper</module>
+        <module>XMLWiseWrapper</module>
+        <module>NominatimWrapper</module>
+        <module>GSONWrapper</module>
+        <module>JSONWrapper</module>
+        <module>SLF4JWrapper</module>
+        <module>CSVReaderWrapper</module>
+        <module>EHCacheWrapper</module>
+  </modules>
+  
+    <profiles>
+        <!--      <profile>
+            <id>update-version</id>
+            <build>
+                <plugins>
+                    <plugin>
+                        <groupId>org.apache.maven.plugins</groupId>
+                        <artifactId>maven-release-plugin</artifactId>
+                        <executions>
+                            <execution>
+                                <goals>
+                                    <goal>update-versions</goal>
+                                </goals>
+                                <phase>validate</phase>
+                                <configuration>
+                                    <developmentVersion>1.0-SNAPSHOT</developmentVersion>
+                                    <autoVersionSubmodules>true</autoVersionSubmodules>
+                                </configuration>
+                            </execution>
+                        </executions>
+                    </plugin>
+                </plugins>
+            </build>
+        </profile>-->
+    </profiles>
+</project>

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/view/orbit
+END
+FlatOrbitView.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/view/orbit/FlatOrbitView.java
+END
+OrbitViewPropertyAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/view/orbit/OrbitViewPropertyAccessor.java
+END
+FlyToOrbitViewAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/view/orbit/FlyToOrbitViewAnimator.java
+END
+OrbitViewCollisionSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/view/orbit/OrbitViewCollisionSupport.java
+END
+OrbitViewMoveToZoomAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/view/orbit/OrbitViewMoveToZoomAnimator.java
+END
+OrbitViewCenterAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/view/orbit/OrbitViewCenterAnimator.java
+END
+OrbitViewInputSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/view/orbit/OrbitViewInputSupport.java
+END
+OrbitViewInputHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/view/orbit/OrbitViewInputHandler.java
+END
+OrbitView.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/view/orbit/OrbitView.java
+END
+BasicOrbitView.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/view/orbit/BasicOrbitView.java
+END
+OrbitViewLimits.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/view/orbit/OrbitViewLimits.java
+END
+BasicOrbitViewLimits.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/view/orbit/BasicOrbitViewLimits.java
+END

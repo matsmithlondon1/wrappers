@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1052/trunk/WorldWind/src/org/codehaus/jackson/impl
+END
+DefaultPrettyPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/impl/DefaultPrettyPrinter.java
+END
+ReaderBasedNumericParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/impl/ReaderBasedNumericParser.java
+END
+StreamBasedParserBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/impl/StreamBasedParserBase.java
+END
+JsonNumericParserBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/impl/JsonNumericParserBase.java
+END
+Indenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/impl/Indenter.java
+END
+ReaderBasedParserBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/impl/ReaderBasedParserBase.java
+END
+JsonReadContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/impl/JsonReadContext.java
+END
+JsonGeneratorBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/impl/JsonGeneratorBase.java
+END
+ReaderBasedParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/impl/ReaderBasedParser.java
+END
+Utf8StreamParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/impl/Utf8StreamParser.java
+END
+JsonParserBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/impl/JsonParserBase.java
+END
+WriterBasedGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/impl/WriterBasedGenerator.java
+END
+Utf8NumericParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/impl/Utf8NumericParser.java
+END
+JsonWriteContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/impl/JsonWriteContext.java
+END
+ByteSourceBootstrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/impl/ByteSourceBootstrapper.java
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1052/trunk/WorldWind/src/org/codehaus/jackson/annotate
+END
+JsonClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/annotate/JsonClass.java
+END
+JsonSetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/annotate/JsonSetter.java
+END
+JsonValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/annotate/JsonValue.java
+END
+JsonSubTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/annotate/JsonSubTypes.java
+END
+JsonKeyClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/annotate/JsonKeyClass.java
+END
+JsonAnySetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/annotate/JsonAnySetter.java
+END
+JsonPropertyOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/annotate/JsonPropertyOrder.java
+END
+JsonMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/annotate/JsonMethod.java
+END
+JsonTypeName.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/annotate/JsonTypeName.java
+END
+JsonIgnore.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/annotate/JsonIgnore.java
+END
+JsonProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/annotate/JsonProperty.java
+END
+JacksonAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/annotate/JacksonAnnotation.java
+END
+JsonGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/annotate/JsonGetter.java
+END
+JsonTypeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/annotate/JsonTypeInfo.java
+END
+JsonCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/annotate/JsonCreator.java
+END
+JsonIgnoreProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/annotate/JsonIgnoreProperties.java
+END
+JsonContentClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/annotate/JsonContentClass.java
+END
+JsonAutoDetect.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/annotate/JsonAutoDetect.java
+END
+JsonWriteNullProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1/trunk/WorldWind/src/org/codehaus/jackson/annotate/JsonWriteNullProperties.java
+END

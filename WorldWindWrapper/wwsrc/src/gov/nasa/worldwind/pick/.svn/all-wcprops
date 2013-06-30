@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/pick
+END
+PickedObjectList.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/pick/PickedObjectList.java
+END
+PickSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/pick/PickSupport.java
+END
+PickedObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/pick/PickedObject.java
+END

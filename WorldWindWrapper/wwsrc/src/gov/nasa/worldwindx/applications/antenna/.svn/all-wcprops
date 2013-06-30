@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/antenna
+END
+AntennaAxes.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/antenna/AntennaAxes.java
+END
+AntennaModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/antenna/AntennaModel.java
+END
+AntennaViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/349/trunk/WorldWind/src/gov/nasa/worldwindx/applications/antenna/AntennaViewer.java
+END
+Interpolator2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/antenna/Interpolator2D.java
+END

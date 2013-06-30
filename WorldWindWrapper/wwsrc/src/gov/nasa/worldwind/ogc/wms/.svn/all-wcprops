@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/wms
+END
+WMSCapabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/wms/WMSCapabilities.java
+END
+WMSAuthorityURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/wms/WMSAuthorityURL.java
+END
+WMSLayerInfoURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/wms/WMSLayerInfoURL.java
+END
+WMSLayerStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/wms/WMSLayerStyle.java
+END
+WMSLayerIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/wms/WMSLayerIdentifier.java
+END
+WMSLayerAttribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/wms/WMSLayerAttribution.java
+END
+WMSLayerDimension.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/wms/WMSLayerDimension.java
+END
+WMSLogoURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/wms/WMSLogoURL.java
+END
+WMSLayerExtent.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/wms/WMSLayerExtent.java
+END
+WMSLayerCapabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/wms/WMSLayerCapabilities.java
+END
+WMSServiceInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/wms/WMSServiceInformation.java
+END
+WMSCapabilityInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/wms/WMSCapabilityInformation.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/geom/coords
+END
+MGRSCoord.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/geom/coords/MGRSCoord.java
+END
+TMCoordConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/geom/coords/TMCoordConverter.java
+END
+DatumTransformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/geom/coords/DatumTransformation.java
+END
+UTMCoordConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/geom/coords/UTMCoordConverter.java
+END
+UPSCoordConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/geom/coords/UPSCoordConverter.java
+END
+MGRSCoordConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/geom/coords/MGRSCoordConverter.java
+END
+TMCoord.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/geom/coords/TMCoord.java
+END
+PolarCoordConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/geom/coords/PolarCoordConverter.java
+END
+UTMCoord.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/geom/coords/UTMCoord.java
+END
+UPSCoord.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/geom/coords/UPSCoord.java
+END

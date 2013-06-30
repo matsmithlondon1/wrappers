@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/formats/shapefile
+END
+ShapefileRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/formats/shapefile/ShapefileRecord.java
+END
+Shapefile.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/formats/shapefile/Shapefile.java
+END
+ShapefileUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/formats/shapefile/ShapefileUtils.java
+END
+DBaseField.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/formats/shapefile/DBaseField.java
+END
+ShapefileRecordMultiPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/formats/shapefile/ShapefileRecordMultiPoint.java
+END
+ShapefileRecordPolygon.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/formats/shapefile/ShapefileRecordPolygon.java
+END
+ShapefileRecordPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/formats/shapefile/ShapefileRecordPoint.java
+END
+ShapefileRecordNull.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/formats/shapefile/ShapefileRecordNull.java
+END
+ShapefileRecordPolyline.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/formats/shapefile/ShapefileRecordPolyline.java
+END
+DBaseRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/formats/shapefile/DBaseRecord.java
+END
+DBaseFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/formats/shapefile/DBaseFile.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/tracks
+END
+TrackPointImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/tracks/TrackPointImpl.java
+END
+Track.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/tracks/Track.java
+END
+TrackSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/tracks/TrackSegment.java
+END
+TrackPointIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/tracks/TrackPointIterator.java
+END
+TrackPointIteratorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/tracks/TrackPointIteratorImpl.java
+END
+TrackPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/tracks/TrackPoint.java
+END

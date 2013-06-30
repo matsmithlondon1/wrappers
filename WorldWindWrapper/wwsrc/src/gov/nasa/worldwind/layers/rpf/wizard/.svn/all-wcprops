@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/rpf/wizard
+END
+FileChooserPanelDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/rpf/wizard/FileChooserPanelDescriptor.java
+END
+FileChooserPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/rpf/wizard/FileChooserPanel.java
+END
+TimeFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/rpf/wizard/TimeFormatter.java
+END
+RPFImportWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/rpf/wizard/RPFImportWizard.java
+END
+ETRCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/rpf/wizard/ETRCalculator.java
+END
+FileSearchPanelDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/rpf/wizard/FileSearchPanelDescriptor.java
+END
+PreprocessPanelDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/rpf/wizard/PreprocessPanelDescriptor.java
+END
+ProgressPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/rpf/wizard/ProgressPanel.java
+END
+RPFWizardUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/rpf/wizard/RPFWizardUtil.java
+END
+DataChooserPanelDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/rpf/wizard/DataChooserPanelDescriptor.java
+END
+FileSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/rpf/wizard/FileSet.java
+END
+DataChooserPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/rpf/wizard/DataChooserPanel.java
+END
+SizeFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/rpf/wizard/SizeFormatter.java
+END

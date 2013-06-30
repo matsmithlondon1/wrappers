@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/util/wizard
+END
+WizardPanelDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/util/wizard/WizardPanelDescriptor.java
+END
+Wizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/util/wizard/Wizard.java
+END
+WizardModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/util/wizard/WizardModel.java
+END
+DefaultPanelDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/util/wizard/DefaultPanelDescriptor.java
+END
+WizardController.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/util/wizard/WizardController.java
+END
+WizardProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/util/wizard/WizardProperties.java
+END

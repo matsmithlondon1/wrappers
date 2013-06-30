@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1171/trunk/WorldWind/src/config/Earth
+END
+USGSTopoMedResLayer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1171/trunk/WorldWind/src/config/Earth/USGSTopoMedResLayer.xml
+END
+ScankortDenmarkDSMElevationModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1171/trunk/WorldWind/src/config/Earth/ScankortDenmarkDSMElevationModel.xml
+END
+MSVirtualEarthAerialLayer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1171/trunk/WorldWind/src/config/Earth/MSVirtualEarthAerialLayer.xml
+END
+ScankortDenmarkImageLayer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1171/trunk/WorldWind/src/config/Earth/ScankortDenmarkImageLayer.xml
+END
+OpenStreetMap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1171/trunk/WorldWind/src/config/Earth/OpenStreetMap.xml
+END
+USGSDigitalOrthoLayer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1171/trunk/WorldWind/src/config/Earth/USGSDigitalOrthoLayer.xml
+END
+USGSTopoHighResLayer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1171/trunk/WorldWind/src/config/Earth/USGSTopoHighResLayer.xml
+END
+USDANAIPWMSImageLayer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1171/trunk/WorldWind/src/config/Earth/USDANAIPWMSImageLayer.xml
+END
+USDANAIPUSGSWMSImageLayer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1171/trunk/WorldWind/src/config/Earth/USDANAIPUSGSWMSImageLayer.xml
+END
+BingImagery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1171/trunk/WorldWind/src/config/Earth/BingImagery.xml
+END
+MSVirtualEarthRoadsLayer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1171/trunk/WorldWind/src/config/Earth/MSVirtualEarthRoadsLayer.xml
+END
+LandsatI3WMSLayer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1171/trunk/WorldWind/src/config/Earth/LandsatI3WMSLayer.xml
+END
+BMNGWMSLayer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1171/trunk/WorldWind/src/config/Earth/BMNGWMSLayer.xml
+END
+MSVirtualEarthHybridLayer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1171/trunk/WorldWind/src/config/Earth/MSVirtualEarthHybridLayer.xml
+END
+EarthElevationModelAsBil32.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1171/trunk/WorldWind/src/config/Earth/EarthElevationModelAsBil32.xml
+END
+USGSUrbanAreaOrthoLayer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1171/trunk/WorldWind/src/config/Earth/USGSUrbanAreaOrthoLayer.xml
+END
+CountryBoundariesLayer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1171/trunk/WorldWind/src/config/Earth/CountryBoundariesLayer.xml
+END
+USGSTopoLowResLayer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1171/trunk/WorldWind/src/config/Earth/USGSTopoLowResLayer.xml
+END
+EarthElevationModelAsBil16.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1171/trunk/WorldWind/src/config/Earth/EarthElevationModelAsBil16.xml
+END
+EarthMergedElevationModel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1171/trunk/WorldWind/src/config/Earth/EarthMergedElevationModel.xml
+END

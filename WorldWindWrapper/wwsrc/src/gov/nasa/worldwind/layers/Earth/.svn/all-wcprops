@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/Earth
+END
+UTMGraticuleLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/Earth/UTMGraticuleLayer.java
+END
+NASAWFSPlaceNameLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/Earth/NASAWFSPlaceNameLayer.java
+END
+MGRSGraticuleLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/Earth/MGRSGraticuleLayer.java
+END
+LandsatI3WMSLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/Earth/LandsatI3WMSLayer.java
+END
+MSVirtualEarthLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/Earth/MSVirtualEarthLayer.java
+END
+BMNGWMSLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/Earth/BMNGWMSLayer.java
+END
+OSMCycleMapLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/Earth/OSMCycleMapLayer.java
+END
+CountryBoundariesLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/Earth/CountryBoundariesLayer.java
+END
+USGSUrbanAreaOrtho.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/Earth/USGSUrbanAreaOrtho.java
+END
+USGSTopoLowRes.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/Earth/USGSTopoLowRes.java
+END
+USGSTopoMedRes.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/Earth/USGSTopoMedRes.java
+END
+ScankortDenmarkImageLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/Earth/ScankortDenmarkImageLayer.java
+END
+BMNGOneImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/Earth/BMNGOneImage.java
+END
+USGSDigitalOrtho.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/Earth/USGSDigitalOrtho.java
+END
+USDANAIPWMSImageLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/Earth/USDANAIPWMSImageLayer.java
+END
+OSMMapnikLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/Earth/OSMMapnikLayer.java
+END
+USGSTopoHighRes.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/Earth/USGSTopoHighRes.java
+END
+UTMBaseGraticuleLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/Earth/UTMBaseGraticuleLayer.java
+END

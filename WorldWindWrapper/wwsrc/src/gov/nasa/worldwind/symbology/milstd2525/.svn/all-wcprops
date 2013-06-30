@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/milstd2525
+END
+MilStd2525GraphicFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/milstd2525/MilStd2525GraphicFactory.java
+END
+SymbolCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/milstd2525/SymbolCode.java
+END
+AbstractMilStd2525TacticalGraphic.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/milstd2525/AbstractMilStd2525TacticalGraphic.java
+END
+MilStd2525ModifierRetriever.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/milstd2525/MilStd2525ModifierRetriever.java
+END
+MilStd2525PointGraphic.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/560/trunk/WorldWind/src/gov/nasa/worldwind/symbology/milstd2525/MilStd2525PointGraphic.java
+END
+MilStd2525TacticalSymbol.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/milstd2525/MilStd2525TacticalSymbol.java
+END
+MilStd2525UnitsFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/482/trunk/WorldWind/src/gov/nasa/worldwind/symbology/milstd2525/MilStd2525UnitsFormat.java
+END
+MilStd2525Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/milstd2525/MilStd2525Constants.java
+END
+MilStd2525Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/milstd2525/MilStd2525Util.java
+END
+MilStd2525PointGraphicRetriever.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/526/trunk/WorldWind/src/gov/nasa/worldwind/symbology/milstd2525/MilStd2525PointGraphicRetriever.java
+END
+MilStd2525IconRetriever.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/milstd2525/MilStd2525IconRetriever.java
+END
+MilStd2525TacticalGraphic.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/555/trunk/WorldWind/src/gov/nasa/worldwind/symbology/milstd2525/MilStd2525TacticalGraphic.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/milstd2525/package.html
+END

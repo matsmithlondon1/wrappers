@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features
+END
+AbstractFeaturePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/AbstractFeaturePanel.java
+END
+AbstractApplicationFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/AbstractApplicationFeature.java
+END
+NetworkActivitySignal.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/NetworkActivitySignal.java
+END
+UTMGraticule.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/UTMGraticule.java
+END
+MeasurementDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/MeasurementDialog.java
+END
+AbstractOpenResourceFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/AbstractOpenResourceFeature.java
+END
+GazetteerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/GazetteerPanel.java
+END
+Graticule.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/Graticule.java
+END
+AbstractFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/AbstractFeature.java
+END
+AbstractOnDemandLayerFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/AbstractOnDemandLayerFeature.java
+END
+StatusPanelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/StatusPanelImpl.java
+END
+WMSDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/WMSDialog.java
+END
+WMSPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/WMSPanel.java
+END
+ImportedDataDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/ImportedDataDialog.java
+END
+AbstractFeatureDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/AbstractFeatureDialog.java
+END
+Navigation.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/Navigation.java
+END
+CoordinatesDisplay.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/CoordinatesDisplay.java
+END
+OpenFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/OpenFile.java
+END
+DataImportUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/DataImportUtil.java
+END
+FileMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/FileMenu.java
+END
+MeasurementPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/MeasurementPanel.java
+END
+Compass.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/Compass.java
+END
+AbstractElevationsFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/AbstractElevationsFeature.java
+END
+FeaturePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/FeaturePanel.java
+END
+ScaleBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/ScaleBar.java
+END
+GraticuleLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/GraticuleLayer.java
+END
+AbstractFeatureLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/AbstractFeatureLayer.java
+END
+OpenURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/OpenURL.java
+END
+Measurement.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/Measurement.java
+END
+LatLonGraticule.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/LatLonGraticule.java
+END
+YahooGazetteer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/YahooGazetteer.java
+END
+Feature.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/Feature.java
+END
+ImportedDataPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/ImportedDataPanel.java
+END
+Crosshair.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwindx/applications/worldwindow/features/Crosshair.java
+END

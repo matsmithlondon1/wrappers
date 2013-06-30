@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/milstd2525/graphics
+END
+EchelonSymbol.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/symbology/milstd2525/graphics/EchelonSymbol.java
+END
+TacGrpSidc.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/429/trunk/WorldWind/src/gov/nasa/worldwind/symbology/milstd2525/graphics/TacGrpSidc.java
+END
+DefaultLabelLayouts.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/552/trunk/WorldWind/src/gov/nasa/worldwind/symbology/milstd2525/graphics/DefaultLabelLayouts.java
+END
+EmsSidc.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/409/trunk/WorldWind/src/gov/nasa/worldwind/symbology/milstd2525/graphics/EmsSidc.java
+END
+TriangleWavePositionIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/423/trunk/WorldWind/src/gov/nasa/worldwind/symbology/milstd2525/graphics/TriangleWavePositionIterator.java
+END
+TacticalGraphicSymbol.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/710/trunk/WorldWind/src/gov/nasa/worldwind/symbology/milstd2525/graphics/TacticalGraphicSymbol.java
+END
+MetocSidc.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/442/trunk/WorldWind/src/gov/nasa/worldwind/symbology/milstd2525/graphics/MetocSidc.java
+END
+DefaultOffsets.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/542/trunk/WorldWind/src/gov/nasa/worldwind/symbology/milstd2525/graphics/DefaultOffsets.java
+END
