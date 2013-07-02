@@ -1,2 +1,2 @@
 Manifest-Version: 1.0
-OpenIDE-Module-Localizing-Bundle: org/dj/jsonwrapper/Bundle.properties
+OpenIDE-Module-Localizing-Bundle: com/bytebots/jsonwrapper/Bundle.properties

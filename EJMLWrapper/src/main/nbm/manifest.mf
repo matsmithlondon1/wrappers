@@ -1,2 +1,2 @@
 Manifest-Version: 1.0
-OpenIDE-Module-Localizing-Bundle: org/dj/ejmlwrapper/Bundle.properties
+OpenIDE-Module-Localizing-Bundle: com/bytebots/ejmlwrapper/Bundle.properties

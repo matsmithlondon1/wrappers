@@ -1,2 +1,2 @@
 Manifest-Version: 1.0
-OpenIDE-Module-Localizing-Bundle: org/dj/csvreaderwrapper/Bundle.properties
+OpenIDE-Module-Localizing-Bundle: com/bytebots/csvreaderwrapper/Bundle.properties

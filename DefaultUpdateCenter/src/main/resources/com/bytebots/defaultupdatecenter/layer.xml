@@ -4,7 +4,7 @@
     <folder name="Services">
         <folder name="AutoupdateType">
             <file name="org_dj_DefaultUpdateCenter_update_center.instance">
-                <attr name="displayName" bundlevalue="org.dj.defaultupdatecenter.Bundle#Services/AutoupdateType/org_dj_DefaultUpdateCenter_update_center.instance"/>
+                <attr name="displayName" bundlevalue="com.bytebots.defaultupdatecenter.Bundle#Services/AutoupdateType/org_dj_DefaultUpdateCenter_update_center.instance"/>
                 <attr name="enabled" boolvalue="true"/>
                 <attr name="instanceCreate" methodvalue="org.netbeans.modules.autoupdate.updateprovider.AutoupdateCatalogFactory.createUpdateProvider"/>
                 <attr name="instanceOf" stringvalue="org.netbeans.spi.autoupdate.UpdateProvider"/>
