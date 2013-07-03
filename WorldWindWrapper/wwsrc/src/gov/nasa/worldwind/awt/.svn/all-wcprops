@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 61
-/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/awt
+/svn/!svn/ver/1399/trunk/WorldWind/src/gov/nasa/worldwind/awt
 END
 ViewInputAttributes.java
 K 25
@@ -61,11 +61,11 @@ WorldWindowGLJPanel.java
 K 25
 svn:wc:ra_dav:version-url
 V 86
-/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/awt/WorldWindowGLJPanel.java
+/svn/!svn/ver/1399/trunk/WorldWind/src/gov/nasa/worldwind/awt/WorldWindowGLJPanel.java
 END
 WorldWindowGLCanvas.java
 K 25
 svn:wc:ra_dav:version-url
 V 86
-/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/awt/WorldWindowGLCanvas.java
+/svn/!svn/ver/1399/trunk/WorldWind/src/gov/nasa/worldwind/awt/WorldWindowGLCanvas.java
 END

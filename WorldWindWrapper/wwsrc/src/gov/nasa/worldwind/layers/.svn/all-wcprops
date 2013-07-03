@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/svn/!svn/ver/1172/trunk/WorldWind/src/gov/nasa/worldwind/layers
+/svn/!svn/ver/1397/trunk/WorldWind/src/gov/nasa/worldwind/layers
 END
 LocalRasterServerLayer.java
 K 25
@@ -37,7 +37,7 @@ CompassLayer.java
 K 25
 svn:wc:ra_dav:version-url
 V 82
-/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/layers/CompassLayer.java
+/svn/!svn/ver/1397/trunk/WorldWind/src/gov/nasa/worldwind/layers/CompassLayer.java
 END
 AnnotationLayer.java
 K 25

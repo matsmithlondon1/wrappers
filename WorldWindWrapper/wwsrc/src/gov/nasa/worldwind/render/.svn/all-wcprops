@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/svn/!svn/ver/1181/trunk/WorldWind/src/gov/nasa/worldwind/render
+/svn/!svn/ver/1418/trunk/WorldWind/src/gov/nasa/worldwind/render
 END
 Pedestal.java
 K 25
@@ -9,17 +9,17 @@ svn:wc:ra_dav:version-url
 V 78
 /svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/Pedestal.java
 END
-Renderable.java
-K 25
-svn:wc:ra_dav:version-url
-V 80
-/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/Renderable.java
-END
 BasicAnnotationRenderer.java
 K 25
 svn:wc:ra_dav:version-url
 V 93
 /svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/BasicAnnotationRenderer.java
+END
+Renderable.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/Renderable.java
 END
 OutlinedShape.java
 K 25
@@ -27,17 +27,17 @@ svn:wc:ra_dav:version-url
 V 83
 /svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/OutlinedShape.java
 END
-Pyramid.java
-K 25
-svn:wc:ra_dav:version-url
-V 77
-/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/Pyramid.java
-END
 PatternFactory.java
 K 25
 svn:wc:ra_dav:version-url
 V 84
 /svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/PatternFactory.java
+END
+Pyramid.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/Pyramid.java
 END
 WWIcon.java
 K 25
@@ -51,17 +51,17 @@ svn:wc:ra_dav:version-url
 V 90
 /svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/BasicShapeAttributes.java
 END
-ScreenCredit.java
-K 25
-svn:wc:ra_dav:version-url
-V 82
-/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/ScreenCredit.java
-END
 PreRenderable.java
 K 25
 svn:wc:ra_dav:version-url
 V 83
 /svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/PreRenderable.java
+END
+ScreenCredit.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/ScreenCredit.java
 END
 IconRenderer.java
 K 25
@@ -97,7 +97,7 @@ DrawContextImpl.java
 K 25
 svn:wc:ra_dav:version-url
 V 85
-/svn/!svn/ver/1181/trunk/WorldWind/src/gov/nasa/worldwind/render/DrawContextImpl.java
+/svn/!svn/ver/1400/trunk/WorldWind/src/gov/nasa/worldwind/render/DrawContextImpl.java
 END
 Polyline.java
 K 25
@@ -195,17 +195,17 @@ svn:wc:ra_dav:version-url
 V 82
 /svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/SurfaceShape.java
 END
-Size.java
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/Size.java
-END
 ScreenAnnotation.java
 K 25
 svn:wc:ra_dav:version-url
 V 86
 /svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/ScreenAnnotation.java
+END
+Size.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/Size.java
 END
 ScreenCreditImage.java
 K 25
@@ -237,17 +237,17 @@ svn:wc:ra_dav:version-url
 V 83
 /svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/AbstractShape.java
 END
-GeographicSurfaceTileRenderer.java
-K 25
-svn:wc:ra_dav:version-url
-V 99
-/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/GeographicSurfaceTileRenderer.java
-END
 LightingModel.java
 K 25
 svn:wc:ra_dav:version-url
 V 83
 /svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/LightingModel.java
+END
+GeographicSurfaceTileRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/GeographicSurfaceTileRenderer.java
 END
 SurfacePolylines.java
 K 25
@@ -261,29 +261,23 @@ svn:wc:ra_dav:version-url
 V 73
 /svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/Box.java
 END
-Wedge.java
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/Wedge.java
-END
 UserFacingText.java
 K 25
 svn:wc:ra_dav:version-url
 V 84
 /svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/UserFacingText.java
 END
+Wedge.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/Wedge.java
+END
 SurfaceText.java
 K 25
 svn:wc:ra_dav:version-url
 V 81
-/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/SurfaceText.java
-END
-LazilyLoadedTexture.java
-K 25
-svn:wc:ra_dav:version-url
-V 89
-/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/LazilyLoadedTexture.java
+/svn/!svn/ver/1418/trunk/WorldWind/src/gov/nasa/worldwind/render/SurfaceText.java
 END
 MultiLineTextRenderer.java
 K 25
@@ -291,11 +285,11 @@ svn:wc:ra_dav:version-url
 V 91
 /svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/MultiLineTextRenderer.java
 END
-AbstractSurfaceRenderable.java
+LazilyLoadedTexture.java
 K 25
 svn:wc:ra_dav:version-url
-V 95
-/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/AbstractSurfaceRenderable.java
+V 89
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/LazilyLoadedTexture.java
 END
 AnnotationFlowLayout.java
 K 25
@@ -303,23 +297,29 @@ svn:wc:ra_dav:version-url
 V 90
 /svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/AnnotationFlowLayout.java
 END
+AbstractSurfaceRenderable.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/AbstractSurfaceRenderable.java
+END
 ContourLine.java
 K 25
 svn:wc:ra_dav:version-url
 V 81
 /svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/ContourLine.java
 END
-AbstractSurfaceObject.java
-K 25
-svn:wc:ra_dav:version-url
-V 91
-/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/AbstractSurfaceObject.java
-END
 AnnotationNullLayout.java
 K 25
 svn:wc:ra_dav:version-url
 V 90
 /svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/AnnotationNullLayout.java
+END
+AbstractSurfaceObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/AbstractSurfaceObject.java
 END
 SurfacePolyline.java
 K 25
@@ -345,17 +345,11 @@ svn:wc:ra_dav:version-url
 V 83
 /svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/SurfaceSector.java
 END
-SurfaceSquare.java
+PointPlacemark.java
 K 25
 svn:wc:ra_dav:version-url
-V 83
-/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/SurfaceSquare.java
-END
-Cylinder.java
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/Cylinder.java
+V 84
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/PointPlacemark.java
 END
 ContourLinePolygon.java
 K 25
@@ -363,23 +357,29 @@ svn:wc:ra_dav:version-url
 V 88
 /svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/ContourLinePolygon.java
 END
-PointPlacemark.java
+Cylinder.java
 K 25
 svn:wc:ra_dav:version-url
-V 84
-/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/PointPlacemark.java
+V 78
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/Cylinder.java
 END
-AbstractBalloon.java
+SurfaceSquare.java
 K 25
 svn:wc:ra_dav:version-url
-V 85
-/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/AbstractBalloon.java
+V 83
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/SurfaceSquare.java
 END
 Annotation.java
 K 25
 svn:wc:ra_dav:version-url
 V 80
 /svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/Annotation.java
+END
+AbstractBalloon.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/render/AbstractBalloon.java
 END
 GeographicText.java
 K 25

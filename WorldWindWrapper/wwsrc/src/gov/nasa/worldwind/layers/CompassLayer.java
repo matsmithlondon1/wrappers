@@ -21,7 +21,7 @@ import java.io.*;
 
 /**
  * @author tag
- * @version $Id: CompassLayer.java 1171 2013-02-11 21:45:02Z dcollins $
+ * @version $Id: CompassLayer.java 1397 2013-06-03 23:16:09Z tgaskins $
  */
 public class CompassLayer extends AbstractLayer
 {
@@ -344,6 +344,11 @@ public class CompassLayer extends AbstractLayer
                         return;
                     }
                 }
+
+                // Need to assign the width and height here to address the case in which the texture was already
+                // loaded into the cache by another layer or a previous instance of this one.
+                this.iconWidth = iconTexture.getWidth();
+                this.iconHeight = iconTexture.getHeight();
 
                 if (iconTexture != null)
                 {

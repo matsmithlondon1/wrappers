@@ -5,7 +5,7 @@
   ~ All Rights Reserved.
   -->
 
-<!--$Id: worldwind.xml 1171 2013-02-11 21:45:02Z dcollins $-->
+<!--$Id: worldwind.xml 1484 2013-06-25 19:23:10Z tgaskins $-->
 <!--Default World Wind configuration values-->
 <!--Any of these can be overridden by specifying an application configuration document-->
 <!--An alternate document to this one can also be specified-->
@@ -19,7 +19,7 @@
     <Property name="gov.nasa.worldwind.avkey.GlobeClassName"
               value="gov.nasa.worldwind.globes.Earth"/>
     <Property name="gov.nasa.worldwind.avkey.EarthElevationModelConfigFile"
-              value="config/Earth/EarthElevationModelAsBil16.xml"/>
+              value="config/Earth/EarthElevations2.xml"/>
     <Property name="gov.nasa.worldwind.avkey.InitialLatitude" value="38"/>
     <Property name="gov.nasa.worldwind.avkey.InitialAltitude" value="19.07e6"/>
     <Property name="gov.nasa.worldwind.avkey.ViewClassName" value="gov.nasa.worldwind.view.orbit.BasicOrbitView"/>

@@ -1,7 +1,7 @@
 10
 
 dir
-1181
+1492
 http://worldwind31.arc.nasa.gov/svn/trunk/WorldWind/src/gov/nasa/worldwind/formats
 http://worldwind31.arc.nasa.gov/svn
 
@@ -26,31 +26,31 @@ dcollins
 
 1c351a6f-456c-4935-88af-207f26c224cf
 
-wvt
+nmea
 dir
 
 dted
 dir
 
-nmea
+wvt
 dir
 
 nitfs
 dir
 
-rpf
+worldfile
 dir
 
-worldfile
+rpf
 dir
 
 tiff
 dir
 
-csv
+vpf
 dir
 
-vpf
+csv
 dir
 
 gcps

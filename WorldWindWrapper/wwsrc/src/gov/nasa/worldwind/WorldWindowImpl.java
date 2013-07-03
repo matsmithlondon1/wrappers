@@ -23,7 +23,7 @@ import java.util.*;
  * subclass or aggregate this object to provide default <code>WorldWindow</code> functionality.
  *
  * @author Tom Gaskins
- * @version $Id: WorldWindowImpl.java 1171 2013-02-11 21:45:02Z dcollins $
+ * @version $Id: WorldWindowImpl.java 1399 2013-06-03 23:26:22Z tgaskins $
  */
 public abstract class WorldWindowImpl extends WWObjectImpl implements WorldWindow
 {
@@ -31,6 +31,7 @@ public abstract class WorldWindowImpl extends WWObjectImpl implements WorldWindo
     private final EventListenerList eventListeners = new EventListenerList();
     private InputHandler inputHandler;
     protected GpuResourceCache gpuResourceCache;
+    protected boolean gpuResourceCacheShared;
 
     public WorldWindowImpl()
     {

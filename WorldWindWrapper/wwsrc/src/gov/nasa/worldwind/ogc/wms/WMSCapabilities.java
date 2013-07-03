@@ -15,11 +15,12 @@ import javax.xml.namespace.QName;
 import javax.xml.stream.XMLStreamException;
 import javax.xml.stream.events.XMLEvent;
 import java.net.*;
+import java.text.*;
 import java.util.*;
 
 /**
  * @author tag
- * @version $Id: WMSCapabilities.java 1171 2013-02-11 21:45:02Z dcollins $
+ * @version $Id: WMSCapabilities.java 1359 2013-05-23 18:04:41Z tgaskins $
  */
 public class WMSCapabilities extends OGCCapabilities
 {
@@ -178,7 +179,7 @@ public class WMSCapabilities extends OGCCapabilities
             if (layer == null)
                 continue;
 
-            String update = layer.getLastUpdate();
+            String update = this.getLayerLastUpdate(layer);
             if (update != null && update.length() > 0 && (lastUpdate == null || update.compareTo(lastUpdate) > 0))
                 lastUpdate = update;
         }
@@ -197,6 +198,66 @@ public class WMSCapabilities extends OGCCapabilities
         }
 
         return null;
+    }
+
+    /**
+     * Checks the WMS layer capabilities for a LastUpdate entry, either an explicit element by that name or a layer
+     * keyword.
+     *
+     * @param layerCaps The layer's capabilities taken from the server's capabilities document.
+     *
+     * @return A string representation of the epoch time for the last update string, if any, otherwise null.
+     */
+    protected String getLayerLastUpdate(WMSLayerCapabilities layerCaps)
+    {
+        // See if there's an explicit element. This is what the original WW servers contained in their caps docs.
+        String update = layerCaps.getLastUpdate();
+        if (update != null)
+            return update;
+
+        // See if there's a last-update keyword. This is the new mechanism for WW servers passing a last-update.
+        Set<String> keywords = layerCaps.getKeywords();
+        for (String keyword : keywords)
+        {
+            if (keyword.startsWith("LastUpdate="))
+            {
+                return this.parseLastUpdate(keyword);
+            }
+        }
+
+        return null;
+    }
+
+    /**
+     * Parse a LastUpdate string.
+     *
+     * @param lastUpdateString The string containing the LastUpdate string in the format "LastUpdate=yyyy-MM-dd'T'HH:mm:ssZ"
+     *
+     * @return A string representation of the epoch time for the last update string, of null if the string can't be
+     *         parsed as a date.
+     */
+    protected String parseLastUpdate(String lastUpdateString)
+    {
+        String[] splitKeyword = lastUpdateString.split("=");
+        if (splitKeyword.length != 2)
+            return null;
+
+        String dateString = splitKeyword[1];
+        if (dateString == null || dateString.length() == 0)
+            return null;
+
+        try
+        {
+            SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ssZ"); // ISO 8601:2000 format
+            dateString = dateString.replaceAll("Z", "-0000"); // replace the UTC designator
+            return Long.toString(dateFormat.parse(dateString).getTime());
+        }
+        catch (ParseException e)
+        {
+            String message = Logging.getMessage("WMS.LastUpdateFormatUnrecognized", dateString);
+            Logging.logger().info(message);
+            return null;
+        }
     }
 
     public Double[] getLayerExtremeElevations(WMSCapabilities caps, String[] layerNames)

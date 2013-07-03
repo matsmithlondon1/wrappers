@@ -1,13 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/wms
+/svn/!svn/ver/1359/trunk/WorldWind/src/gov/nasa/worldwind/ogc/wms
 END
 WMSCapabilities.java
 K 25
 svn:wc:ra_dav:version-url
 V 86
-/svn/!svn/ver/1171/trunk/WorldWind/src/gov/nasa/worldwind/ogc/wms/WMSCapabilities.java
+/svn/!svn/ver/1359/trunk/WorldWind/src/gov/nasa/worldwind/ogc/wms/WMSCapabilities.java
 END
 WMSAuthorityURL.java
 K 25

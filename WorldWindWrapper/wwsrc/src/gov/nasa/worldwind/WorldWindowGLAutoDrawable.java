@@ -30,7 +30,7 @@ import java.util.logging.Level;
  * provide the core functionality of World Wind.
  *
  * @author Tom Gaskins
- * @version $Id: WorldWindowGLAutoDrawable.java 1171 2013-02-11 21:45:02Z dcollins $
+ * @version $Id: WorldWindowGLAutoDrawable.java 1399 2013-06-03 23:26:22Z tgaskins $
  */
 public class WorldWindowGLAutoDrawable extends WorldWindowImpl implements WorldWindowGLDrawable, GLEventListener
 {
@@ -112,6 +112,12 @@ public class WorldWindowGLAutoDrawable extends WorldWindowImpl implements WorldW
         }
 
         this.setGpuResourceCache(cache);
+    }
+
+    public void initGpuResourceCache(GpuResourceCache cache, boolean shared)
+    {
+        this.gpuResourceCacheShared = shared;
+        this.initGpuResourceCache(cache);
     }
 
     public void endInitialization()
@@ -210,7 +216,7 @@ public class WorldWindowGLAutoDrawable extends WorldWindowImpl implements WorldW
 
         if (this.firstInit)
             this.firstInit = false;
-        else
+        else if (!this.gpuResourceCacheShared)
             this.reinitialize(glAutoDrawable);
 
         // Disables use of the OpenGL extension GL_ARB_texture_rectangle by JOGL's Texture creation utility.

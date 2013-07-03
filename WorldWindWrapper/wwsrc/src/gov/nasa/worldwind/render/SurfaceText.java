@@ -24,7 +24,7 @@ import java.util.Arrays;
  * zooms out.
  *
  * @author pabercrombie
- * @version $Id: SurfaceText.java 1171 2013-02-11 21:45:02Z dcollins $
+ * @version $Id: SurfaceText.java 1418 2013-06-07 19:26:02Z tgaskins $
  */
 // TODO: add support for heading
 public class SurfaceText extends AbstractSurfaceObject implements GeographicText, Movable
@@ -204,7 +204,7 @@ public class SurfaceText extends AbstractSurfaceObject implements GeographicText
             throw new IllegalArgumentException(message);
         }
 
-        if (!bgColor.equals(background))
+        if (bgColor == null || !bgColor.equals(background))
         {
             this.bgColor = background;
             this.updateModifiedTime();

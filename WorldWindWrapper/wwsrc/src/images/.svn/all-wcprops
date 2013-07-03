@@ -99,17 +99,17 @@ svn:wc:ra_dav:version-url
 V 65
 /svn/!svn/ver/1/trunk/WorldWind/src/images/browser-back-16x16.gif
 END
-64x64-crosshair.png
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/!svn/ver/1/trunk/WorldWind/src/images/64x64-crosshair.png
-END
 indicator-66.gif
 K 25
 svn:wc:ra_dav:version-url
 V 59
 /svn/!svn/ver/1/trunk/WorldWind/src/images/indicator-66.gif
+END
+64x64-crosshair.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1/trunk/WorldWind/src/images/64x64-crosshair.png
 END
 32x32-icon-nasa.png
 K 25
@@ -123,11 +123,11 @@ svn:wc:ra_dav:version-url
 V 62
 /svn/!svn/ver/1/trunk/WorldWind/src/images/16x16-icon-nasa.png
 END
-view-pitch-down-32x32.png
+up_arrow_16x16.png
 K 25
 svn:wc:ra_dav:version-url
-V 68
-/svn/!svn/ver/1/trunk/WorldWind/src/images/view-pitch-down-32x32.png
+V 64
+/svn/!svn/ver/1179/trunk/WorldWind/src/images/up_arrow_16x16.png
 END
 load-dot.png
 K 25
@@ -135,11 +135,11 @@ svn:wc:ra_dav:version-url
 V 55
 /svn/!svn/ver/1/trunk/WorldWind/src/images/load-dot.png
 END
-up_arrow_16x16.png
+view-pitch-down-32x32.png
 K 25
 svn:wc:ra_dav:version-url
-V 64
-/svn/!svn/ver/1179/trunk/WorldWind/src/images/up_arrow_16x16.png
+V 68
+/svn/!svn/ver/1/trunk/WorldWind/src/images/view-pitch-down-32x32.png
 END
 32x32-icon-earth.png
 K 25
@@ -153,29 +153,29 @@ svn:wc:ra_dav:version-url
 V 63
 /svn/!svn/ver/1/trunk/WorldWind/src/images/16x16-icon-earth.png
 END
-layer-manager-64x64.png
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/!svn/ver/1/trunk/WorldWind/src/images/layer-manager-64x64.png
-END
 notched-compass.dds
 K 25
 svn:wc:ra_dav:version-url
 V 62
 /svn/!svn/ver/1/trunk/WorldWind/src/images/notched-compass.dds
 END
-view-zoom-in-32x32.png
+layer-manager-64x64.png
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/svn/!svn/ver/1/trunk/WorldWind/src/images/view-zoom-in-32x32.png
+V 66
+/svn/!svn/ver/1/trunk/WorldWind/src/images/layer-manager-64x64.png
 END
 indicator-32.gif
 K 25
 svn:wc:ra_dav:version-url
 V 59
 /svn/!svn/ver/1/trunk/WorldWind/src/images/indicator-32.gif
+END
+view-zoom-in-32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1/trunk/WorldWind/src/images/view-zoom-in-32x32.png
 END
 view-zoom-out-32x32.png
 K 25

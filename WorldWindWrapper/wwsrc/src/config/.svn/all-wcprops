@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 45
-/svn/!svn/ver/1173/trunk/WorldWind/src/config
+/svn/!svn/ver/1484/trunk/WorldWind/src/config
 END
 DataFileStore.xml
 K 25
@@ -13,7 +13,7 @@ worldwind.layers.xml
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/svn/!svn/ver/1171/trunk/WorldWind/src/config/worldwind.layers.xml
+/svn/!svn/ver/1382/trunk/WorldWind/src/config/worldwind.layers.xml
 END
 SRTM30Plus_ExtremeElevations_5.bil
 K 25
@@ -25,7 +25,7 @@ worldwind.xml
 K 25
 svn:wc:ra_dav:version-url
 V 59
-/svn/!svn/ver/1171/trunk/WorldWind/src/config/worldwind.xml
+/svn/!svn/ver/1484/trunk/WorldWind/src/config/worldwind.xml
 END
 Hipparcos_Stars_Mag6x5044.dat
 K 25
