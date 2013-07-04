@@ -63,7 +63,6 @@
         <objectdb.version>2.5.1</objectdb.version>
         <netcdf.version>4.2.20</netcdf.version>
         <nbm.maven.version>3.9</nbm.maven.version>
-        
         <jogamp.version>2.0-rc11</jogamp.version>
     </properties>
     
@@ -74,7 +73,10 @@
     <packaging>pom</packaging>
 
     <name>Wrappers</name>
-
+    <ciManagement>
+        <system>hudson</system>
+        <url>http://dev.danieljabry.com/jenkins/job/wrappers/</url>
+    </ciManagement>
     <modules>
         <module>GUAVAWrapper</module>
         <module>NETCDFWrapper</module>
