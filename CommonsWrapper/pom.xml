@@ -4,12 +4,12 @@
     <parent>
         <artifactId>Wrappers</artifactId>
         <groupId>com.bytebots</groupId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0</version>
     </parent>
 
     <groupId>com.bytebots</groupId>
     <artifactId>commonswrapper</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>nbm</packaging>
 
     <name>CommonsWrapper</name>
