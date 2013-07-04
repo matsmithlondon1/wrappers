@@ -4,12 +4,12 @@
     <parent>
         <artifactId>Wrappers</artifactId>
         <groupId>com.bytebots</groupId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.1-SNAPSHOT</version>
     </parent>
 
     <groupId>com.bytebots</groupId>
     <artifactId>EHCacheWrapper</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>nbm</packaging>
 
     <name>EHCacheWrapper</name>
@@ -60,7 +60,7 @@
         <dependency>
             <groupId>com.bytebots</groupId>
             <artifactId>slf4jwrapper</artifactId>
-            <version>${project.version}</version>
+            <version>1.1-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>net.sf.ehcache</groupId>
